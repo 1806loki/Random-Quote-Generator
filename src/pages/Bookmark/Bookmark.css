@@ -1,6 +1,7 @@
 .bookmark {
   background: #38248d;
   min-height: 100vh;
+  width: 100%;
 }
 
 .bookmark-container {

@@ -15,4 +15,9 @@
 }
 
 
- 
+ @media screen and (max-width:400px) {
+  .navbar-container {
+    gap: 10px;
+  }
+  
+ }

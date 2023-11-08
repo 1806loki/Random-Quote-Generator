@@ -1,6 +1,7 @@
 .home {
   background: #38248d;
-  height: 100vh;
+  min-height: 100vh;
+  width: 100%;
 }
 
 .home-container {
@@ -23,4 +24,4 @@ button {
   background: #009c51;
   color: white;
   font-size: 15px;
- }
+}
