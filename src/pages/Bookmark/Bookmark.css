@@ -1,0 +1,12 @@
+.bookmark {
+  background: #38248d;
+  min-height: 100vh;
+}
+
+.bookmark-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
